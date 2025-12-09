@@ -1,0 +1,75 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "search": "Search",
+    "filter": "Filter",
+    "book": "Book",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "nav": {
+    "home": "Home",
+    "accommodations": "Accommodations",
+    "bookings": "Bookings",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Name",
+    "phone": "Phone",
+    "forgotPassword": "Forgot Password?",
+    "alreadyHaveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?"
+  },
+  "accommodation": {
+    "title": "Accommodations",
+    "searchPlaceholder": "Search for accommodation, city...",
+    "filterByCity": "Filter by city",
+    "filterByType": "Filter by type",
+    "priceRange": "Price range",
+    "amenities": "Amenities",
+    "guests": "Guests",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "perNight": "per night",
+    "bookNow": "Book now",
+    "description": "Description",
+    "location": "Location",
+    "reviews": "Reviews",
+    "noReviews": "No reviews yet",
+    "rating": "Rating"
+  },
+  "booking": {
+    "title": "Booking",
+    "checkIn": "Check-in date",
+    "checkOut": "Check-out date",
+    "guests": "Number of guests",
+    "totalPrice": "Total price",
+    "specialRequests": "Special requests",
+    "status": "Status",
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "cancelled": "Cancelled"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "myBookings": "My bookings",
+    "myAccommodations": "My accommodations",
+    "addAccommodation": "Add accommodation",
+    "statistics": "Statistics"
+  }
+}
+

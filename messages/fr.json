@@ -1,0 +1,75 @@
+{
+  "common": {
+    "welcome": "Bienvenue",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "book": "Réserver",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  },
+  "nav": {
+    "home": "Accueil",
+    "accommodations": "Hébergements",
+    "bookings": "Réservations",
+    "dashboard": "Tableau de bord",
+    "login": "Connexion",
+    "register": "Inscription",
+    "logout": "Déconnexion"
+  },
+  "auth": {
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "forgotPassword": "Mot de passe oublié ?",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "noAccount": "Pas encore de compte ?"
+  },
+  "accommodation": {
+    "title": "Hébergements",
+    "searchPlaceholder": "Rechercher un hébergement, une ville...",
+    "filterByCity": "Filtrer par ville",
+    "filterByType": "Filtrer par type",
+    "priceRange": "Gamme de prix",
+    "amenities": "Équipements",
+    "guests": "Voyageurs",
+    "bedrooms": "Chambres",
+    "bathrooms": "Salles de bain",
+    "perNight": "par nuit",
+    "bookNow": "Réserver maintenant",
+    "description": "Description",
+    "location": "Localisation",
+    "reviews": "Avis",
+    "noReviews": "Aucun avis pour le moment",
+    "rating": "Note"
+  },
+  "booking": {
+    "title": "Réservation",
+    "checkIn": "Date d'arrivée",
+    "checkOut": "Date de départ",
+    "guests": "Nombre de voyageurs",
+    "totalPrice": "Prix total",
+    "specialRequests": "Demandes spéciales",
+    "status": "Statut",
+    "pending": "En attente",
+    "confirmed": "Confirmée",
+    "cancelled": "Annulée"
+  },
+  "dashboard": {
+    "welcome": "Bienvenue",
+    "myBookings": "Mes réservations",
+    "myAccommodations": "Mes hébergements",
+    "addAccommodation": "Ajouter un hébergement",
+    "statistics": "Statistiques"
+  }
+}
+
